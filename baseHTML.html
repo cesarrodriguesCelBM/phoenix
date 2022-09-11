@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1.0">
+		<title>Document</title>
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+		<style type="text/css">
+		
+		body{
+			font: 1em Arial, Helvetica, sans-serif;
+			background-image:linear-gradient(to right, white,blue);
+		}
+		div{
+			display: inline-block;
+			background-color: lightgray;
+			border: 1px black;
+			text-align: center;
+			height: 200px;
+			width: 200px;
+		}
+		div:hover{
+			background-color: yellow;
+			font-size: 30px;
+			
+		}
+	
+		
+		p:hover{
+			display: block;
+			background-color: blue;
+		}
+		
+		
+		
+		a{
+			color: red;
+			text-decoration: none;
+			font-weight: bold;
+		}
+		a:visited{
+			color: darkred;
+		}
+		a:hover{
+			text-decoration: underline;
+			color: green;
+		}
+		a:active{
+			color: yellow;
+		}
+		a::after{
+			content: " [link]";
+			text-decoration: none;
+			font-weight: normal;
+			color: darkgrey;
+		}
+		.especial{
+			background-color: rgb(255,140,140);
+		}
+		.especial::before{
+			content: "\2714";
+		}
+		
+		/*
+			#    id
+			.    class
+			:    pseudo classe
+			::   pseudo elemento
+			>    filho de uma classe
+		*/
+		div#bola{
+			margin: 10px;
+			height: 100px;
+			width: 100px;
+			background-color: yellow;
+			border-radius: 50%;
+		}
+		</style>
+	</head>
+	
+	<body>
+	<header>
+		<h1> Meu site</h1>
+		<nav> links <br>
+			<a href="https://prezi.com/view/R3q2DJCclS209e5l1aVx/" target="puto"> <img src="favicon.ico"></a>
+		</nav>
+	</header>
+	<main>
+	<div class="01">01
+		<p> Paragrafo </p>
+	
+	</div>
+	<div class="02">02
+		<p> Paragrafo </p>
+	</div>
+	<div id="03">03</div>
+	
+	<h1> Personalizando links</h1>
+	
+	<ul>
+		<li><a href="https://google.com.br">Google</a></li>
+		<li><a class="especial" href="https://cbmerj.rj.gov.br">CBMERJ</a></li>
+		<li><a href="https://cursoemvideo.com">Curso em video</a></li>
+	</ul>
+	
+	
+		<section>
+			<article>
+				<h2>Título</h2>
+				<p>Texto do artigo</p>
+			</article>
+			<article>
+				<h2>Título</h2>
+				<p>Texto do artigo</p>
+				<aside>
+					conteúdo periférico do artigo
+				</aside>
+			</article>
+		</section>
+		<aside>
+			conteúdo periférico do site
+		</aside>
+	</main>
+	<footer>
+		conteúdo do rodapé
+	</footer>
+	<div id="bola">
+		div<br>bola
+	</div>
+	</body>
+</html>
