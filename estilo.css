@@ -1,4 +1,10 @@
 @charset "UTF-8";
+#clock {                        /* Style apply to element with id="clock" */
+  font: bold 15pt sans;         /* Use a big bold font */
+  padding: 10px;                /* Surround it with some space */
+ }
+
+
 @font-face {
 	font-family: 'FonteLogo';
 	src: url("../_fonts/bubblegum-sans-regular.otf");
