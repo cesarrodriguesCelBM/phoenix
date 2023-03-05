@@ -144,6 +144,221 @@ ul#album-fotos li#volvo3:hover{
 	background-position: 0px 0px;
 }
 
+ul#album-fotos li#foto1{
+	background: url('1.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+
+ul#album-fotos li#foto1:hover{
+	background-size: 200px 200px;
+	background-position: 0px 0px;
+}
+
+ul#album-fotos li#foto2{
+	background: url('2.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+
+ul#album-fotos li#foto2:hover{
+	background-size: 200px 200px;
+	background-position: 0px 0px;
+}
+
+ul#album-fotos li#foto3{
+	background: url('3.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+
+ul#album-fotos li#foto3:hover{
+	background-size: 200px 200px;
+	background-position: 0px 0px;
+}
+
+ul#album-fotos li#foto4{
+	background: url('4.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+
+ul#album-fotos li#foto4:hover{
+	background-size: 200px 200px;
+	background-position: 0px 0px;
+}
+
+ul#album-fotos li#foto5{
+	background: url('5.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+
+ul#album-fotos li#foto5:hover{
+	background-size: 200px 200px;
+	background-position: 0px 0px;
+}
+
+ul#album-fotos li#foto6{
+	background: url('6.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+
+ul#album-fotos li#foto6:hover{
+	background-size: 200px 200px;
+	background-position: 0px 0px;
+}
+
+ul#album-fotos li#foto7{
+	background: url('7.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+
+ul#album-fotos li#foto7:hover{
+	background-size: 200px 200px;
+	background-position: 0px 0px;
+}
+
+ul#album-fotos li#foto8{
+	background: url('8.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+
+ul#album-fotos li#foto8:hover{
+	background-size: 200px 200px;
+	background-position: 0px 0px;
+}
+
+ul#album-fotos li#foto9{
+	background: url('9.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+
+ul#album-fotos li#foto9:hover{
+	background-size: 200px 200px;
+	background-position: 0px 0px;
+}
+
+ul#album-fotos li#zf1{
+	background: url('zf1.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+
+ul#album-fotos li#zf1:hover{
+	background-size: 200px 200px;
+	background-position: 0px 0px;
+}
+
+ul#album-fotos li#zf2{
+	background: url('zf2.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+
+ul#album-fotos li#zf2:hover{
+	background-size: 200px 200px;
+	background-position: 0px 0px;
+}
+
+ul#album-fotos li#zf3{
+	background: url('zf3.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+
+ul#album-fotos li#zf3:hover{
+	background-size: 200px 200px;
+	background-position: 0px 0px;
+}
+
+ul#album-fotos li#zf4{
+	background: url('zf4.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+
+ul#album-fotos li#zf4:hover{
+	background-size: 200px 200px;
+	background-position: 0px 0px;
+}
+
+ul#album-fotos li#zf5{
+	background: url('zf1.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+
+ul#album-fotos li#zf5:hover{
+	background-size: 200px 200px;
+	background-position: 0px 0px;
+}
+
+ul#album-fotos li#zf6{
+	background: url('zf6.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+
+ul#album-fotos li#zf6:hover{
+	background-size: 200px 200px;
+	background-position: 0px 0px;
+}
+
+ul#album-fotos li#zf7{
+	background: url('zf7.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+
+ul#album-fotos li#zf7:hover{
+	background-size: 200px 200px;
+	background-position: 0px 0px;
+}
+
+ul#album-fotos li#zf8{
+	background: url('zf8.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+
+ul#album-fotos li#zf8:hover{
+	background-size: 200px 200px;
+	background-position: 0px 0px;
+}
+
+ul#album-fotos li#zf9{
+	background: url('zf9.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+
+ul#album-fotos li#zf9:hover{
+	background-size: 200px 200px;
+	background-position: 0px 0px;
+}
 
 fieldset{
 	padding:1px;
